@@ -1,7 +1,11 @@
 # A2C_TangyPack
 Allows VGA and HDMI (DVI) video device to be connected to Apple IIc/IIc+ 
 
-## WARNING!!!  Do not plug/unplug the device to/from the Apple IIc with the power on.  Damage to the device and/or to your Apple IIc can occur.  It is strongly recommended to lock the screw terminal down to prevent the device from being accidentally disconnected.
+### WARNING!!!  Do not plug/unplug the device to/from the Apple IIc with the power on.  Damage to the device and/or to your Apple IIc can occur.  It is strongly recommended to lock the screw terminal down to prevent the device from being accidentally disconnected. 
+
+* HDMI specification allows for hot plugging the connector.  
+* Hot plugging VGA connector is not defined in the specification and there is mixed information regarding if it is safe.
+
 
 # Descrpition
 A2C_TangyPack plugs into the video expansion port of the Apple IIc/IIc+ and is powered from the port itself.  It is a scan doubling device that will take the 560x192 video of the Apple IIc and upscale the video to ~640x480 (720x480 @ 28.63MHz pixel rate) video resolution supported by most modern video monitors. 
@@ -23,3 +27,10 @@ Controls are simple.  Push the corresponding buttons to cycle through the option
   C - Border off, Border White, Border Blue, Border Green  
   
 ![Front_View](./Images/front_view_buttons.jpg)
+
+# Firmware
+Currently there is only one firmware available for the Tangy Pack.  (See Firmware folder)  
+
+However, there is a firmware update mechanism in place for any future firmware release. 
+
+[Firmware Update](./Firmware/Firmware.md)
