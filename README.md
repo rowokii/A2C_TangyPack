@@ -1,6 +1,8 @@
 # A2C_TangyPack
 Allows VGA and HDMI (DVI) video device to be connected to Apple IIc/IIc+ 
 
+If you want to purchase one, it's avaiable from ct6502.org: [https://ct6502.org/product/tangypack/](https://ct6502.org/product/tangypack/)
+
 ### WARNING!!!  Do not plug/unplug the device to/from the Apple IIc with the power on.  Damage to the device and/or to your Apple IIc can occur.  It is strongly recommended to lock the screw terminal down to prevent the device from being accidentally disconnected. 
 
 * HDMI specification allows for hot plugging the connector.  
