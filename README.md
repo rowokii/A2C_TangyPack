@@ -1,5 +1,5 @@
 # A2C_TangyPack
-Allows VGA and HDMI (DVI) video device to be connected to Apple IIc/IIc+ 
+Allows VGA and HDMI (DVI) video device to be connected to Apple IIc/IIc+ (US NTSC Machine only). 
 
 If you want to purchase one, it's avaiable from ct6502.org: [https://ct6502.org/product/tangypack/](https://ct6502.org/product/tangypack/)
 
@@ -13,6 +13,10 @@ If you want to purchase one, it's avaiable from ct6502.org: [https://ct6502.org/
 A2C_TangyPack plugs into the video expansion port of the Apple IIc/IIc+ and is powered from the port itself.  It is a scan doubling device that will take the 560x192 video of the Apple IIc and upscale the video to ~640x480 (720x480 @ 28.63MHz pixel rate) video resolution supported by most modern video monitors. 
 
 ## Compatibility Warning
+
+### Tangy Pack supports only US NTSC machines.
+### Not recommended for HDMI Video Capture devices at this time.  It looks like most HDMI Video Capture devices does not support 640x480 resolution
+
 Some monitors have problems detecting or auto sizing the image since the video from the Apple IIc is smaller than normal 640x480 image.  Turning on the border can help the monitor detect and lock on to the video.
 
 After testing with different type of video devices, it seems like some wide screen TVs and video capture cards has problems detecting the video from this device, even with the border turned on.  This is mainly on the hdmi output.  
