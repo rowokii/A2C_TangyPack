@@ -15,7 +15,7 @@ A2C_TangyPack plugs into the video expansion port of the Apple IIc/IIc+ and is p
 ## Compatibility Warning
 
 ### Tangy Pack supports only US NTSC machines.
-### Not recommended for HDMI Video Capture devices at this time.  It looks like most HDMI Video Capture devices does not support 640x480 resolution
+### Not recommended for HDMI Video Capture devices at this time.  
 
 Some monitors have problems detecting or auto sizing the image since the video from the Apple IIc is smaller than normal 640x480 image.  Turning on the border can help the monitor detect and lock on to the video.
 
