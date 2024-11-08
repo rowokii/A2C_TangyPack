@@ -1,8 +1,10 @@
 # A2C_TangyPack
-Allows VGA and HDMI (DVI) video device to be connected to Apple IIc/IIc+ (US NTSC Machine only).  [Laser 128 support](Laser128.md) added with Firmware V1.10
+Allows VGA and HDMI (DVI) video device to be connected to Apple IIc/IIc+ (US NTSC Machine only). 
+
+[Laser 128 support](Laser128.md) added with Firmware V1.10
 
 If you want to purchase one, it's avaiable from ct6502.org: [https://ct6502.org/product/tangypack/](https://ct6502.org/product/tangypack/)
-Please read the following [document](Compatibility.md) on compatibility before ordering. 
+</br>Please read the following [document](Compatibility.md) on compatibility before ordering. 
 
 ### WARNING!!!  Do not plug/unplug the device to/from the Apple IIc with the power on.  Damage to the device and/or to your Apple IIc can occur.  It is strongly recommended to lock the screw terminal down to prevent the device from being accidentally disconnected. 
 
