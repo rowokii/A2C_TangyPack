@@ -9,6 +9,7 @@ Additional hardware:
   - 5 - M3 x 8mm flat head phillips head.
 
 Print Settings used:
+  - Polymaker ABS, White (Some early cases printed in Bambulab ABS, white)
   - 0.4mm Nozzle
   - 0.2mm layer
   - 0.4mm line width

@@ -1,5 +1,4 @@
-# Firmware
-Currently there is only one firmware available for the Tangy Pack.  However, there is a firmware update mechanism in place for any future firmware release. 
+# Firmware Update Procedure
 
 ## Taking apart the Tangy Pack
 
@@ -21,7 +20,7 @@ Once you have access to the USB C connector on the Tangy Pack, you have two opti
 
 [openFPGALoader](https://github.com/trabucayre/openFPGALoader) is a fantastic open source software that allows you to program many FPGA boards from many manufacturers.   It works under Linux, Windows and macOS.  While the [installation guide](https://trabucayre.github.io/openFPGALoader/guide/install.html) has instructions for linux and macOS, the windows section is blank.
 
-I was able to install and use openFPGALoader using the following [guide](https://fpga.mit.edu/6205/F22/documentation/openFPGA).  It uses [MSYS2](https://www.msys2.org/) for the actual install of the tool and command shell and [Zadig](https://zadig.akeo.ie/) for driver installation.  Only difference I ran into when following the guide was when replacing the FTDIBUS driver for WinUSB, my Tang Nano 9K device was listed as "JTAG Device" instead of "Digilent USB Device".  You need to update both interface 1 and interface 2 with WinUSB.
+I was able to install and use openFPGALoader under Windows using the following [guide](https://fpga.mit.edu/6205/F22/documentation/openFPGA).  It uses [MSYS2](https://www.msys2.org/) for the actual install of the tool and command shell and [Zadig](https://zadig.akeo.ie/) for driver installation.  Only difference I ran into when following the guide was when replacing the FTDIBUS driver for WinUSB, my Tang Nano 9K device was listed as "JTAG Device" instead of "Digilent USB Device".  You need to update both interface 1 and interface 2 with WinUSB.
 
 After you have installed the openFPGALoader, copy the firmware_name.fs file to a directory accessible from your MSYS2 command window.  Connect the Tang Nano 9K board to your computer and from the MSYS2 command window, you should be able to detect the board using the following command.
 
