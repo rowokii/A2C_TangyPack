@@ -16,13 +16,16 @@ Print Settings used:
   - 4 walls, 5 top and bottom layers
   - 25% Adaptive Cubic infill
   - No support needed (front case has built in support)
+  - Brim is recommended for ABS (not needed for the clips.stl)
 
 Print Files
   - Tangy_Pack_back.stl - Back of the case
-  - Tangy_Pack_front_support.stl - Front of the case with built in support
+  - Tangy_Pack_front_support_V2.stl - Updated case front that is compatible with Apple IIc and Laser 128.  It has built in support
   - clips.stl -clip used to hold in the tab screws
 
   Alternative
+  - Tangy_Pack_front_support.stl - Front of the case with built in support (original Apple IIc only case)
   - Tangy_Pack_front_NO_support.stl - This is the front of the case without built in support if you want to use your own support, modify the design or use different print orientation
+  - Tangy_Pack_front_NO_support.stl - V2 case without support.
 
   
