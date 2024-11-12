@@ -46,12 +46,12 @@ Using an active HDMI signal repeater/booster device fixes the image problem.
 What you are looking for is an **active** hdmi repeater. The passive HDMI connector meant to just extend the cable will not work.  Amazon seems to have a few models from ~$20 to ~$40.  I also found a few ~$10 devices on Aliexpress that seems to work.  Here's the list of devices that I have tried.
 
 * [Amazon Bytecc HDMI Amplifier Repeater ](https://www.amazon.com/dp/B0CRK292K6?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1) ~$25 Worked
-![HDMI Booster](./Images/HDMI_Booster.jpg)
-* [Aliexpress - 8K HDMI Signal Amplifier Booster Extender](https://www.aliexpress.us/item/3256806506866287.html) ~$8 Worked ![NEPHY Image](./Images/Nephy_hdmi_repeater.png)
+<br/>![HDMI Booster](./Images/HDMI_Booster.jpg)
+* [Aliexpress - 8K HDMI Signal Amplifier Booster Extender](https://www.aliexpress.us/item/3256806506866287.html) ~$8 Worked <br/>![NEPHY Image](./Images/Nephy_hdmi_repeater.png)
 
-* [Aliexpress - 8K Extender Repeater](https://www.aliexpress.us/item/3256806639053743.html) ~$8 Worked ![Ali HDMI Booster](./Images/Aliexpress%208K%20HDMI%20Booster.png)
+* [Aliexpress - 8K Extender Repeater](https://www.aliexpress.us/item/3256806639053743.html) ~$8 Worked <br/>![Ali HDMI Booster](./Images/Aliexpress%208K%20HDMI%20Booster.png)
 * [Aliexpress - Mini 4K*2K HDMI 2.0 Extender](https://www.aliexpress.us/item/3256804417878705.html) ~$15.  **Did NOT work** . Looses lock and blinks
-![HDMI 2.0 Booster](./Images/HDMI%202.0.png)
+<br/>![HDMI 2.0 Booster](./Images/HDMI%202.0.png)
 
 
 Using the active HDMI booster, I was able to get two (Grey and larger black) of my test capture devices to work.  I could not get the small black HDMI to USB2 capture device to work at all.
