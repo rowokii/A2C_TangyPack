@@ -21,7 +21,7 @@ Print Settings used:
 Print Files
   - Tangy_Pack_back.stl - Back of the case
   - Tangy_Pack_front_support_V2.stl - Updated case front that is compatible with Apple IIc and Laser 128.  It has built in support
-  - clips.stl -clip used to hold in the tab screws
+  - clip.stl -clip used to hold in the tab screws
 
   Alternative
   - Tangy_Pack_front_support.stl - Front of the case with built in support (original Apple IIc only case)

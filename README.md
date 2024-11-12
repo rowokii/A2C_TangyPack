@@ -30,5 +30,8 @@ Controls are simple.  Push the corresponding buttons to cycle through the option
 
 # Firmware
 Please read the following for the [Firmware Update](./Firmware/Firmware.md) procedure.
+<br/>Firmware release notes are [here](./Firmware/Firmware_Releases.md). 
 
-Firmware release notes are [here](./Firmware/Firmware_Releases.md). 
+
+# Case STL files
+If you want to print your own case, the .stl files are available in the Case STL directory.  <br/>See the [Case_STL_readme](./Case%20STL/Case_STL_readme.md) for more information.
