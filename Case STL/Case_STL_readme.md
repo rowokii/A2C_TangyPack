@@ -26,6 +26,6 @@ Print Files
   Alternative
   - Tangy_Pack_front_support.stl - Front of the case with built in support (original Apple IIc only case)
   - Tangy_Pack_front_NO_support.stl - This is the front of the case without built in support if you want to use your own support, modify the design or use different print orientation
-  - Tangy_Pack_front_NO_support.stl - V2 case without support.
+  - Tangy_Pack_front_NO_support_V2.stl - V2 case without support.
 
   
