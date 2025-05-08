@@ -28,12 +28,8 @@ Print Files
   - Tangy_Pack_front_NO_support.stl - This is the front of the case without built in support if you want to use your own support, modify the design or use different print orientation
   - Tangy_Pack_front_NO_support_V2.stl - V2 case without support.
 
-<<<<<<< HEAD
 Extra 
   - TN9K_PCB_spacer.stl - Only used as spacer jig when assembling the PCB.
 
 
   
-=======
-  
->>>>>>> 23f48c0344d979e048a64f73ed3b18ab9cd24987
