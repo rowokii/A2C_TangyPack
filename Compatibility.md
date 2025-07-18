@@ -59,5 +59,10 @@ Using the active HDMI booster, I was able to get two (Grey and larger black) of 
 ![HDMI Capture Devices](./Images/HDMI_capture_devices.jpg)
 
 
+I finally found a HDMI capture card that seem to work well without needing a booster:  [UGREEN FULL HD 1080P Capture Card 4K](https://www.amazon.com/UGREEN-Recording-Streaming-Teaching-Conference/dp/B0BGMYPBF4/)
+
+![UGREEN FULL HD](./Images/UGREEN_HD_capture_card.jpg)
+
+
 
 
